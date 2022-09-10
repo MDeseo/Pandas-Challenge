@@ -1,5 +1,5 @@
 # Pandas-Challenge
-This Assignment 3 was created in conda version 4.13.0 in "PythonData" environment using Pandas and Jupyter Noteboook.
+This Assignment 4 was created in conda version 4.13.0 in "PythonData" environment using Pandas and Jupyter Noteboook.
 
 The folder Instructions contains a Resources folder, a PyCitySchools_starter Jupyter source file that was provided as a guide, and the PyCitySch Jupyter source file, which is the assignment. Inside the Resourcse folder are two csv files, "schools_complete" and "students_complete" that contains the data for the schools in the local government area.
 
